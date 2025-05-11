@@ -1,0 +1,11 @@
+2023년 7월 16일 개발 진행상황
+
+API 개발 중 다음과 같은 에러가 발생했습니다:
+- TypeError: Cannot read property 'id' of undefined
+- ReferenceError: data is not defined
+
+해결 방안:
+1. 데이터 유효성 검사 추가
+2. 예외 처리 로직 강화
+
+담당자: 최민수
